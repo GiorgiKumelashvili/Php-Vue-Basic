@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "app\\" : "./"
+    }
+  },
+  "require": {
+    "vlucas/phpdotenv": "^5.2",
+    "firebase/php-jwt": "^5.2"
+  }
+}

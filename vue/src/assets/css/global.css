@@ -1,0 +1,7 @@
+.pointer {
+    cursor: pointer;
+}
+
+.grad {
+    background-image: linear-gradient(rgb(124, 124, 255), purple) !important;
+}
